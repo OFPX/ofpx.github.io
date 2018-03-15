@@ -1,59 +1,30 @@
+Welcome to GitHub Pages
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-<br/>
-### faq
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
-* *when will you release this mod?*<br/>
-   when it is complete, or whenever i feel like it
+Markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-* *can you give me this mod privately?*<br/>
-   no
-   
-* *why dont you release certain mods?*<br/>
-   they can be abused, provide advantages, or are blacklisted
-   
-* **
+Syntax highlighted code block
 
-### 1.7.10 mods
+# Header 1
+## Header 2
+### Header 3
 
-![download](/images/download.png) [sumo hud v1.0](http://www.mediafire.com/file/po3d2xvc82q0law/SumoHud-v1.0.jar)<br/>
-*hide chosen hud elements; /sumohud, toggle key in mc controls*
+- Bulleted
+- List
 
-* **
+1. Numbered
+2. List
 
-### 1.8.9 mods
+**Bold** and _Italic_ and `Code` text
 
-![download](/images/download.png) [block overlay v2.1](http://www.mediafire.com/file/qrdru77in7lna55/BlockOverlay-v2.1.jar) <br/>
-*customize the selection box when your mouse is hovering over a block; /boverlay, /blockoverlay*
+[Link](url) and ![Image](src)
+For more details see GitHub Flavored Markdown.
 
-![download](/images/download.png) [chat background v1.0](http://www.mediafire.com/file/7t5eohnbv45uak7/ChatBackground-v1.0.jar)<br/>
-*change the color and opacity of the chat box background; /chatbackground*
+Jekyll Themes
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
 
-![download](/images/download.png) [ignore purge v1.0](http://www.mediafire.com/file/bxbjiae5j7jajaq/IgnorePurge-v1.0.jar)<br/>
-*clears your ignore list on hypixel; /ignorepurge*
-
-![download](/images/download.png) [kinetic display v1.0](http://www.mediafire.com/file/5bnv7jnovwn7qaf/KineticDisplay-v1.0.jar)<br/>
-*visual representation of your movement speed; /kinetic, /kineticdisplay*
-
-![download](/images/download.png) [mini info v1.0](http://www.mediafire.com/file/spe4t3yetw7h1u7/MiniInfo-v1.0.jar)<br/>
-*simple display for cps, fps, and ping; /miniinfo*
-
-![download](/images/download.png) [ping display v1.0](http://www.mediafire.com/file/940c69993e9eiai/PingDisplay-v1.0.jar)<br/>
-*standalone display with icon and ms; /pingdisplay*
-
-![download](/images/download.png) [tab scale v1.0](http://www.mediafire.com/file/y5ll9vb23vdht6o/TabScale-v1.0.jar)<br/>
-*scale the player list size that is shown when holding tab; /tabscale*
-
-![download](/images/download.png) [tab toggle v1.0](http://www.mediafire.com/file/8xhj7k5ccfvvwz8/TabToggle-v1.0.jar)<br/>
-*show and hide the player list without needing to hold down tab*
-
-![download](/images/download.png) [toggle sprint v1.0](http://www.mediafire.com/file/dckpvca3cnaq9u5/ToggleSprint-v1.0.jar)<br/>
-*an everyday generic toggle sprint mod; /sprint, /togglesprint*
-
-* **
-
-### slamod
-
-b234 v1.0<br/>
-*aaa*
-
-new
+Support or Contact
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
